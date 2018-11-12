@@ -1,2 +1,2 @@
 # HousePricePrediction-
-using lasso, neural network model to predict HousePricePrediction 
+Using lasso, neural network model to predict HousePricePrediction 
